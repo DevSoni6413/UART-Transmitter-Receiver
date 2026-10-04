@@ -9,6 +9,9 @@ a.out
 *.lxt2
 *.fst
 
+# Stray local copy of this project (not part of the source)
+/repo/
+
 # OS / editor clutter
 .DS_Store
 Thumbs.db
