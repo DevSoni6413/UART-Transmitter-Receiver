@@ -1,0 +1,15 @@
+# Icarus Verilog build output
+a.out
+/sim
+*.vvp
+
+# Waveform dumps written by the testbenches ($dumpfile)
+*.vcd
+*.lxt
+*.lxt2
+*.fst
+
+# OS / editor clutter
+.DS_Store
+Thumbs.db
+desktop.ini
